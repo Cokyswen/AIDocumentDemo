@@ -1,0 +1,42 @@
+# PySide6 GUI框架
+PySide6>=6.6.0
+
+# 向量数据库
+chromadb>=0.4.0
+
+# OpenAI API
+openai>=1.0.0
+
+# 文档处理
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+pymupdf>=1.23.0
+markdown>=3.4.0
+
+# 配置管理
+PyYAML>=6.0
+
+# 文本处理
+python-magic>=0.4.27
+chardet>=5.2.0
+tiktoken>=0.5.0
+
+# 异步处理
+asyncio
+
+# 嵌入模型
+sentence-transformers>=2.2.0
+
+# BM25 搜索
+rank-bm25>=0.2
+
+# 工具库
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 开发工具
+pytest>=7.4.0
+pytest-qt>=4.2.0
+black>=23.0.0
+flake8>=6.0.0
